@@ -1,5 +1,8 @@
 {
   "name": "securitips",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "239d64a4"
 }
